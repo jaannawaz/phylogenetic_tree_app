@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-phylogenetic_tree_app/
-│
-├── phylogenetic_tree_app.py         # Main Python script
-├── templates/                       # HTML templates for the web interface
-├── uploads/                         # Directory for user-uploaded files
-├── README.md                        # Project documentation
-├── LICENSE                          # License file
-├── requirements.txt                 # List of required Python libraries
-└── test.nwk                         # Example Newick format tree file
+
 ## Phylogenetic Tree Application
 
 ### Introduction
