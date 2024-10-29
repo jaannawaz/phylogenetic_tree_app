@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 phylogenetic_tree_app/
 │
 ├── phylogenetic_tree_app.py         # Main Python script
@@ -115,3 +116,6 @@ Feel free to submit pull requests or report issues.
 
 ### Contact
 For any questions or suggestions, please contact [your-email@example.com].
+=======
+# phylogenetic_tree_app
+>>>>>>> 8662d92f7d75302866e3b7dbbcc6ea03c26723ac
