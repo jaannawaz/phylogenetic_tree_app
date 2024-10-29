@@ -1,0 +1,4 @@
+Flask
+Biopython
+ete3
+Werkzeug
